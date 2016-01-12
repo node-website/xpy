@@ -1,0 +1,16 @@
+*.log
+!.gitignore
+node_modules/*
+.project
+.settings/
+**/*.svn
+*.svn
+*.swp
+*.sublime-project
+*.sublime-workspace
+lib/doc/
+lib-cov/
+.DS_Store
+.idea/*
+tmp/
+.env
